@@ -1,0 +1,4 @@
+package: urlcheck
+import:
+- package: github.com/asaskevich/govalidator
+- package: github.com/urfave/cli
